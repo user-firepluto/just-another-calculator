@@ -1,0 +1,2 @@
+#!/bin/bash
+/home/$USER/.miniprojects/calc/calc.py
